@@ -9,9 +9,7 @@ object = {
   fn: () -> 'ok'
 }
 
-fn = (arg) -> arg * 2
-
-fn(arg)
+fn()
 ```
 
 ## 换行后不使用 `,` 逗号
